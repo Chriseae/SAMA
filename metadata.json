@@ -1,0 +1,8 @@
+{
+  "name": "SAMA - Safe Automotive Maintenance Assessment",
+  "description": "AI-powered vehicle damage assessment platform featuring premium UI, device-agnostic capture, and enterprise-grade reporting.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
